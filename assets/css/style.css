@@ -1,0 +1,24 @@
+.box-set{
+   
+    background-color: #4aaaa5;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+
+}
+.main-contioner{
+    display :flex ;
+    background-color: #cccccc;
+    width: 80%;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.containcontaner{
+    width: 80%;
+    height: 400px;
+    background: white;
+}
+.box-contact{
+    display:inline-black
+}
